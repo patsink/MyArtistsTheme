@@ -1,2 +1,5 @@
 # MyArtistsTheme
-Artists Theme Dev Tips
+
+
+Artists Theme from Travis Neilson, Dev Tips
+
